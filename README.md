@@ -40,7 +40,7 @@ Ads, In-App Purchases, Analytics, Firebase, AdMob, CAS, Publisher SDKs
 
 | Project | Platform | Role |
 |---|---|---|
-| [Treasure Hunter: Echo of War](https://store.steampowered.com/app/4224620/Treasure_Hunter_Echo_of_War/) | Steam / PC | Lead Unity Developer / Sole Programmer |
+| [Treasure Hunter: Echo of War](https://store.steampowered.com/app/4224620/Treasure_Hunter_Echo_of_War/) | Steam / PC | Lead Unity Developer |
 | [Dive & Cook](https://play.google.com/store/apps/details?id=com.Area51.DiveCook&hl=en_US) | Google Play | Unity Developer |
 | [Ball Busters](https://play.google.com/store/apps/details?id=com.UfoArts.BallBusters&hl=en_US) | Google Play | Unity Developer |
 | [Spider Nest: Invasion](https://play.google.com/store/apps/details?id=com.beetleplay.spiderinvasion&hl=en_US) | Google Play | Unity Developer |
